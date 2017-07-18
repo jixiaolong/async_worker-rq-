@@ -11,5 +11,8 @@ ubuntu 12.04 以上
 1 启动 worker
 $ rq worker queue_name queue_name2
 
-2 
+2 运行发送任务的演示代码 demo.py
+$ python demo.py
+
+
 
