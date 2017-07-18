@@ -8,4 +8,8 @@ ubuntu 12.04 以上
 安装rq (http://python-rq.org/)
 
 简单使用
+1 启动 worker
+$ rq worker queue_name queue_name2
+
+2 
 
